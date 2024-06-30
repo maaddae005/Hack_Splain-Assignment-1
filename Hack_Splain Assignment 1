@@ -1,0 +1,11 @@
+Names = ['Frank', 'Sandra', 'Ellen', 'Rita','Olivia','Liam', 'Ava', 'Noah', 'Sophia', 'Ethan','Charlotte','Logan',
+'Amelia','Oliver','Harper','Benjamin','Evelyn','Caleb','Abigail','Jaxon','Emily','William','Lily','Alexander',
+'Victoria','Gabriel','Jessica','Michael','Samantha','Daniel','Avery','Anthony','RileyC','Christopher','Grace','Julian']
+Group_size = 6
+Group_1= Names[0:6]
+Group_2= Names[7:12]
+Group_3= Names[12:17]
+Group_4= Names[18:23]
+Group_5= Names[24:29]
+Group_6= Names[30:36]
+print (Group_1,Group_2,Group_3,Group_4,Group_5,Group_6)
